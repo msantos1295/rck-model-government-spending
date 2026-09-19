@@ -12,8 +12,9 @@ The baseline Ramsey-Cass-Koopmans (RCK) model has no government. This project ex
 
 ## What's in this repo
 
-- `rck_government_spending.ipynb` — the full analysis: calibration, phase diagrams, transition dynamics (shooting method), and the welfare/optimal-composition results. The first several cells are baseline RCK course starter code; a marker cell notes where the original contribution begins.
-- `slides.pptx` — slide summary of the results.
+- `01_starter_baseline_rck.ipynb` — the baseline (no-government) RCK model, provided as course starter code: calibration, phase diagram, and transition dynamics via the shooting method.
+- `rck_government_spending.ipynb` — the actual project: extending the model to include government spending, with its own calibration, phase diagram, transition dynamics, and welfare/optimal-composition analysis. Runs standalone (it recomputes the baseline steady state it compares against, rather than depending on the starter notebook).
+- `rck_government_spending_slides.pptx` — slide summary of the results.
 
 ## Introduction (excerpt)
 
