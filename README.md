@@ -2,7 +2,7 @@
 
 Extension of the Ramsey-Cass-Koopmans growth model incorporating government spending — coursework expanded into a short paper and published in a student journal.
 
-**Published as:** *RCK Model with Government Spending*, Johns Hopkins University's *Journal of Research in Applied Financial Economics (JRAFE)*, May 2026.
+**Published as:** [*RCK Model with Government Spending*](https://jhu-econ.github.io/jrafe/articles/2026/spring/rck-govt/), Johns Hopkins University's *Journal of Research in Applied Financial Economics (JRAFE)*, May 2026.
 
 ## Overview
 
