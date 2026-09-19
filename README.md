@@ -13,7 +13,7 @@ The baseline Ramsey-Cass-Koopmans (RCK) model has no government. This project ex
 ## What's in this repo
 
 - `rck_government_spending.ipynb` — the full analysis: calibration, phase diagrams, transition dynamics (shooting method), and the welfare/optimal-composition results. The first several cells are baseline RCK course starter code; a marker cell notes where the original contribution begins.
-- `MOMA Final Project Presentation.pptx` — slide summary of the results.
+- `slides.pptx` — slide summary of the results.
 
 ## Introduction (excerpt)
 
